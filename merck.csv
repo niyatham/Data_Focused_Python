@@ -1,0 +1,15 @@
+Product_Name,Compound_Name,Indication,Phase,studyID
+ladiratuzumab vedotin,MK-6440,Non-small cell lung cancer,Phase 2,[]
+TUKYSA,MK-7119,Non-small cell lung cancer,Phase 2,['NCT04721977']
+unnamed,Not Found,Breast cancer,Phase 2,['']
+unnamed,MK-2140,Non-small cell lung cancer,Phase 2,"['NCT03833180', 'NCT04504916']"
+unnamed,MK-2140,Breast cancer,Phase 2,"['NCT03833180', 'NCT04504916']"
+unnamed,MK-4830,Non-small cell lung cancer,Phase 2,"['NCT04924101', 'NCT04165083', 'NCT04165096', 'NCT03564691']"
+unnamed,MK-1308,Non-small cell lung cancer,Phase 2,"['NCT03516981', 'NCT04895722', 'NCT04740307', 'NCT03179436']"
+unnamed,MK-4280,Non-small cell lung cancer,Phase 2,"['NCT03516981', 'NCT02720068', 'NCT03598608']"
+unnamed,MK-5890,Non-small cell lung cancer,Phase 2,"['NCT04924101', 'NCT04165070', 'NCT04165096', 'NCT03396445']"
+ladiratuzumab vedotin,MK-6440,Breast cancer,Phase 2,[]
+unnamed,MK-7684,Non-small cell lung cancer,Phase 3,"['NCT05005442', 'NCT04738487', 'NCT04165070', 'NCT05007106', 'NCT02964013']"
+LYNPARZA,MK-7339,Non-small cell lung cancer,Phase 3,"['NCT03976362', 'NCT03742895', 'NCT04456699', 'NCT04624204', 'NCT03740165']"
+LENVIMA,MK-7902,Non-small cell lung cancer,Phase 3,"['NCT04586231', 'NCT04447755', 'NCT04736706', 'NCT04199104']"
+TUKYSA,MK-7119,Breast cancer,Phase 3,['NCT04721977']

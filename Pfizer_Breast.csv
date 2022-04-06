@@ -1,0 +1,12 @@
+Product_Name,Compound_Name,Indication,Phase,Mechanism of Action,NCT
+Ibrance ,palbociclib,ER+/HER2+ Metastatic Breast Cancer(PATINA),Phase 3,"CDK 4,6 kinase inhibitor",NCT02947685
+ARV-471,,"ER+/HER2- Metastatic Breast Cancer
+Project advanced",Phase 2,ER-targeting PROTAC® protein degrader,
+PF-06873600,,Breast Cancer Metastatic,Phase 1,"CDK 2,4,6 Inhibitor",
+PF-07104091,,Breast Cancer Metastatic,Phase 1,CDK2 Inhibitor,
+PF-07220060,,Breast Cancer Metastatic,Phase 1,CDK4 Inhibitor,
+PF-07248144,,Breast Cancer Metastatic,Phase 1,KAT6A Epigenetic modifier,
+ARV-471,,"ER+/HER2- Metastatic Breast Cancer
+Project advanced",Phase 1,ER-targeting PROTAC® protein degrader,
+Ibrance + ARV-471,,"ER+/HER2- Metastatic Breast Cancer
+Project advanced",Phase 1,"CDK 4,6 kinase inhibitor + ER-targeting PROTAC® protein degrader",
